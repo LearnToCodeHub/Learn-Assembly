@@ -1,5 +1,8 @@
 # Learn-Assembly
 
+This README gathers useful resources for learning Assembly.
+
+
 - **WhiteboardDoodles**: [Basic concepts and how Assembly works](https://www.youtube.com/watch?v=LdWU8JEfPhg)
 - **OliveStem**: [Understanding Assembly through problem-solving](https://www.youtube.com/watch?v=yBO-EJoVDo0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&ab_channel=OliveStem)
 - **Davy Wybiral**: [A playlist covers practical aspects of Assembly programming](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&ab_channel=DavyWybiral)
